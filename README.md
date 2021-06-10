@@ -2,7 +2,7 @@
 
 Proud participant in the development process of Guauguau, an application for the rescue of stray dogs in my hometown, with a main focus on the Backend. 
 Would you like to help? Check [this](https://github.com/luisccc99/guau-guau-back) out, all feedback is welcome!  
-I'm also part of a study group related to software development and general technological knowledge, if you are interested in participating feel free to contact me via  [Twitter](https://twitter.com/varMiquel).  
+I'm also part of a study group related to software development and general technological knowledge, if you are interested in participating feel free to contact me via  [Twitter](https://twitter.com/var_mikev).  
 I believe that teamwork is fundamental to obtain favorable results. :bee: :bee: :honeybee:
 
 ### A little more about me
