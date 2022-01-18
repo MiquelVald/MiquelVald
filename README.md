@@ -7,7 +7,7 @@ I believe that teamwork is fundamental to obtain favorable results. :bee: :bee: 
 
 ### A little more about me
 ```javascript
-  var Mike = {
+  let Mike = {
     hobbies: ["Astronomy", "Reading books", "Learning fun facts", "Coding"],
     interests: ["Back End", "Software Developing", "CI/CD"],
     code: [Java, Python, Ruby],
